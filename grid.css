@@ -1,0 +1,15 @@
+.content.char-40{
+  column-width: 14em;
+  column-gap: 1.5em;
+}
+h1,h2,h3,h4{
+  column-span: all;
+}
+.content.char-60{
+  column-width: 20em;
+  column-gap: 1.5em;
+}
+
+h1,h2,h3,h4,hr,table{
+  column-span: all;
+}
